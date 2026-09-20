@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.env
+.vscode/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
